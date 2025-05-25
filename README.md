@@ -24,3 +24,7 @@ A simple Python project that simulates the rolling of a dice using the `random` 
    ```bash
    git clone https://github.com/your-username/dice-roller.git
    cd dice-roller
+python dice_roller.py
+You rolled a 4 🎲
+Roll again? (y/n): y
+You rolled a 2 🎲
